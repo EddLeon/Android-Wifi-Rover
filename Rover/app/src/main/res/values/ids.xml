@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="login">false</item>
+    <item type="id" name="textViewLink">false</item>
+    <item type="id" name="buttonOK">false</item>
+    <item type="id" name="editTextIP">false</item>
+    <item type="id" name="editTextPort">false</item>
+    <item type="id" name="relativeLayout01">false</item>
+    <item type="id" name="fdLinearLayoutList">false</item>
+    <item type="id" name="fdLinearLayoutSelect">false</item>
+    <item type="id" name="fdButtonNew">false</item>
+    <item type="id" name="fdButtonSelect">false</item>
+    <item type="id" name="fdButtonClose">false</item>
+    <item type="id" name="fdLinearLayoutCreate">false</item>
+    <item type="id" name="textViewFilename">false</item>
+    <item type="id" name="fdEditTextFile">false</item>
+    <item type="id" name="fdButtonCancel">false</item>
+    <item type="id" name="fdButtonCreate">false</item>
+    <item type="id" name="path">false</item>
+    <item type="id" name="fdrowimage">false</item>
+    <item type="id" name="fdrowtext">false</item>
+    <item type="id" name="list">false</item>
+    <item type="id" name="imageViewDelete">false</item>
+    <item type="id" name="textViewCommand">false</item>
+    <item type="id" name="editCmdText">false</item>
+    <item type="id" name="buttonEnter">false</item>
+    <item type="id" name="scrollViewContent">false</item>
+    <item type="id" name="textViewContent">false</item>
+    <item type="id" name="clearhistory">false</item>
+    <item type="id" name="connect">false</item>
+    <item type="id" name="disconnect">false</item>
+    <item type="id" name="history">false</item>
+    <item type="id" name="save">false</item>
+    <item type="id" name="copy">false</item>
+    <item type="id" name="about">false</item>
+</resources>
